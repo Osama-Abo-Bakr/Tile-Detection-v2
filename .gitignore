@@ -1,0 +1,5 @@
+PDFs/*
+.idea
+__pycache__/*
+test.py
+app v-2.txt
